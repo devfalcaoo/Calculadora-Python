@@ -16,12 +16,11 @@ Projeto desenvolvido para prática de:
 - Interface gráfica
 - Boas práticas de código
 
+<img width="341" height="439" alt="Captura de tela 2026-03-27 091228" src="https://github.com/user-attachments/assets/37288698-64a3-4234-980f-7a44a0e325a2" />
+
 ## ▶️ Como executar
 ```bash
 python app.py
-
-<img width="341" height="439" alt="Captura de tela 2026-03-27 091228" src="https://github.com/user-attachments/assets/37288698-64a3-4234-980f-7a44a0e325a2" />
-
 
 ---
 
