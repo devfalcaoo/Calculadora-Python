@@ -1,4 +1,4 @@
-# 🧮 Calculadora Profissional em Python
+# 🧮 Calculadora desenvolvida em Python
 
 Calculadora desenvolvida com Tkinter, com foco em boas práticas e experiência do usuário.
 
