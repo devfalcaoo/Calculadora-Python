@@ -4,11 +4,7 @@ Calculadora desenvolvida com Tkinter, com foco em boas práticas e experiência 
 
 ## 🚀 Funcionalidades
 - Operações básicas (+, -, *, /)
-- Suporte ao teclado
-- Histórico de cálculos
-- Tema dark/light
-- Botão apagar (⌫)
-- Interface responsiva
+- Desing agradável
 
 ## 🛠 Tecnologias
 - Python
